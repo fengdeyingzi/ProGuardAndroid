@@ -1,0 +1,6 @@
+Install -> Install:
+    java.lang.String sh -> a
+    void main(java.lang.String[]) -> main
+    boolean save(java.lang.String,java.lang.String) -> a
+    void <init>() -> <init>
+    void <clinit>() -> <clinit>
